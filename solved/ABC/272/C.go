@@ -5,7 +5,8 @@ import (
 	"sort"
 )
 
-func main() {
+// TODO: WA
+func C() {
 	var n int
 	fmt.Scanf("%d", &n)
 	odd := []int{}
